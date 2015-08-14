@@ -10,7 +10,7 @@ Brazilian/Italian IT software engineer with 9+ years of strong hands-on experien
 
 ## Professional Experience
 
-### July 2008 - Present, [UOL Inc](http://www.uol.com.br).
+### July 2008 - Present, [UOL Inc](http://sobreuol.noticias.uol.com.br/)
 
 `August 2014 - Present, System Specialist at the Web Analytics Team`
 
@@ -50,7 +50,7 @@ Correction and evolution of Java back-end and front-end systems. Design and impl
 
 Technologies: Java, Spring Core, Spring Web, Servlets 2.5, Struts 1, Velocity, Jetty, Maven, Oracle DB.
 
-### January 2006 - July 2008, [Accenture Brazil](http://www.accenture.com.br)
+### January 2006 - July 2008, [Accenture Brazil](https://www.accenture.com/br-pt/company)
 
 `September 2007 - July 2008, Analyst Programmer at the Center of Excellence in Telecommunications in São Paulo, Brazil`
 
