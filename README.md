@@ -81,7 +81,7 @@ Technologies: Linux, BEA Aqualogic, Struts 1.
 * December 2014 - [Getting and Cleaning Data (Coursera/Johns Hopkins)](https://www.coursera.org/account/accomplishments/verify/9YGMNEXRL2)
 * November 2014 - [R Programming (Coursera/Johns Hopkins)](https://www.coursera.org/account/accomplishments/verify/7V7B5ZZJJN)
 * November 2014 - [The Data Scientist’s Toolbox (Coursera/Johns Hopkins)](https://www.coursera.org/signature/certificate/VY5NA2ZWJP)
-* April 2011 - Oracle Certified Master, Java EE 5 Enterprise Architect
-* October 2010 - Oracle Certified Professional, Java EE 5 Business Component Developer
-* October 2008 - Sun Certified Web Component Developer for the Java Platform, Enterprise Edition 5
-* July 2008 - Sun Certified Programmer for the Java Platform, Standard Edition 5.0
+* April 2011 - [Oracle Certified Master, Java EE 5 Enterprise Architect](https://github.com/dmutti/resume/blob/master/java/scea.pdf)
+* October 2010 - [Oracle Certified Professional, Java EE 5 Business Component Developer](https://github.com/dmutti/resume/blob/master/java/scbcd.pdf)
+* October 2008 - [Sun Certified Web Component Developer for the Java Platform, Enterprise Edition 5](https://github.com/dmutti/resume/blob/master/java/scwcd.pdf)
+* July 2008 - [Sun Certified Programmer for the Java Platform, Standard Edition 5.0](https://github.com/dmutti/resume/blob/master/java/scjp.pdf)
