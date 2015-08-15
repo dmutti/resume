@@ -1,6 +1,6 @@
-# Danilo Mutti, MsC [<img src="https://raw.githubusercontent.com/dmutti/resume/master/documents/code.png"/>]
+# Danilo Mutti, MsC <img src="https://raw.githubusercontent.com/dmutti/resume/master/documents/code.png"/>
 
-<a href="https://br.linkedin.com/pub/danilo-mutti-msc/9/635/888">
+<a href="https://www.linkedin.com/in/danilomutti">
     <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_120x33.png" width="120" height="33" border="0">
 </a>
 
