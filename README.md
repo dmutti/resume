@@ -1,4 +1,14 @@
-# Danilo Mutti
+# Danilo Mutti, MsC
+
+`System Architect | Senior Software Engineer | Technical Leader at UOL`
+
+<img src="https://raw.githubusercontent.com/dmutti/resume/master/documents/code.png"/>
+
+<a href="https://br.linkedin.com/pub/danilo-mutti-msc/9/635/888">
+    <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_120x33.png" width="120" height="33" border="0">
+</a>
+
+## tl;dr
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dmutti/resume/master/documents/tagcloud.png"/>
