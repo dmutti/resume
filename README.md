@@ -12,7 +12,7 @@
 
 ## Professional Expertise Highlights
 
-Brazilian/Italian IT software engineer with 9+ years of strong hands-on experience on design and implementation of scalable, high-performance, distributed Java enterprise systems. Deeply skilled in Java EE (SCEA5, SCBCD5, SCWCD5, and SCJP5), Spring Framework, RESTful APIs, Linux, SQL and NoSQL databases. Broadly experienced in EJB, JMS, JPA, MongoDB, Redis, and Hadoop ecosystem. Professional background in Lean and Agile development teams. Master of Science in Information Systems, Bachelor of Science in Computer Sciences by the University of São Paulo, one of the top Brazilian universities. Fluent in English and reasonable knowledge of Italian.
+Brazilian/Italian software engineer with 9+ years of strong hands-on experience on design and implementation of scalable, high-performance, distributed Java enterprise systems. Deeply skilled in Java EE (SCEA5, SCBCD5, SCWCD5, and SCJP5), Spring Framework, RESTful APIs, Linux, SQL and NoSQL databases. Broadly experienced in EJB, JMS, JPA, MongoDB, Redis, and Hadoop ecosystem. Professional background in Lean and Agile development teams. Master of Science in Information Systems, Bachelor of Science in Computer Sciences by the University of São Paulo, one of the top Brazilian universities. Fluent in English and reasonable knowledge of Italian.
 
 ## Professional Experience
 
