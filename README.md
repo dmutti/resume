@@ -76,8 +76,8 @@ Technologies: Linux, BEA Aqualogic, Struts 1.
 
 ## Education
 
-* 2012-2014 - [School of Arts, Sciences and Humanities (EACH)](http://each.uspnet.usp.br/), University of São Paulo, São Paulo, Brazil - M.Sc. in Information Systems. Master's Dissertation: [Coverage based debugging visualization](http://www.teses.usp.br/teses/disponiveis/100/100131/tde-15122014-230109/en.php).
-* 2002-2006 - [Institute of Mathematics and Computer Science (ICMC)](http://www.icmc.usp.br/), University of São Paulo, São Carlos, Brazil - B.Sc. in Computer Sciences.
+* 2012-2014 - [School of Arts, Sciences and Humanities (EACH)](http://each.uspnet.usp.br/), University of São Paulo in the City of São Paulo, Brazil - M.Sc. in Information Systems. Master's Dissertation: [Coverage based debugging visualization](http://www.teses.usp.br/teses/disponiveis/100/100131/tde-15122014-230109/en.php).
+* 2002-2006 - [Institute of Mathematics and Computer Science (ICMC)](http://www.icmc.usp.br/), University of São Paulo in the City of São Carlos, Brazil - B.Sc. in Computer Sciences.
 
 ## Certificates
 
