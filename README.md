@@ -16,9 +16,13 @@ Brazilian/Italian software engineer with 9+ years of strong hands-on experience 
 
 ## Professional Experience
 
-### July 2008 - Present, [UOL Inc](http://sobreuol.noticias.uol.com.br/)
+### November 2015 - Present, [Serasa Experian](http://www.experian.com/corporate/about-experian.html)
 
-`August 2014 - Present, System Specialist at the Web Analytics Team`
+`November 2015 - Present, Senior Data Engineer at the LAC Experian Datalab`
+
+### July 2008 - November 2015, [UOL Inc](http://sobreuol.noticias.uol.com.br/)
+
+`August 2014 - November 2015, System Specialist at the Web Analytics Team`
 
 Development and evolution of a Web Analytics platform. Optimization of storage and retrieval of data stored in MongoDB databases. Deployment and integration of Java EE applications with the Cloudera Hadoop ecosystem. Screening and interview of Java developers for Research and Development teams.
 
@@ -81,6 +85,8 @@ Technologies: Linux, BEA Aqualogic, Struts 1.
 
 ## Certificates
 
+* August 2016 - [EdX/BerkeleyX CS120x - Distributed Machine Learning with Apache Spark (Audit Track)](https://github.com/dmutti/resume/blob/master/edx/CS120x%20Distributed%20Machine%20Learning%20with%20Apache%20Spark.pdf)
+* June 2016 - [EdX/BerkeleyX CS105x - Introduction to Apache Spark (Audit Track)](https://github.com/dmutti/resume/blob/master/edx/CS105x%20Introduction%20to%20Apache%20Spark.pdf)
 * March 2015 - [Statistical Inference (Coursera/Johns Hopkins)](https://www.coursera.org/account/accomplishments/verify/Z9E5TDY4UH)
 * March 2015 - [Reproducible Research (Coursera/Johns Hopkins)](https://www.coursera.org/account/accomplishments/verify/NXYD5CJP6F)
 * February 2015 - [Exploratory Data Analysis (Coursera/Johns Hopkins)](https://www.coursera.org/account/accomplishments/verify/XFFV4SUX8N)
